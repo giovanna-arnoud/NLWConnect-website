@@ -114,7 +114,7 @@ const startApp = () => {
 
         <P>
           Um evento feito por e para pessoas desenvolvedoras apaixonadas por criar soluções inovadoras e compartilhar conhecimento. Vamos mergulhar nas tendências mais recentes em desenvolvimento de software, arquitetura de sistemas e tecnologias emergentes, com palestras, workshops e hackathons. <br>
-          Dias 15 a 17 de março | Das 18h às 21h | Online & Gratuito
+          <strong> Dias 15 a 17 de março | Das 18h às 21h | Online & Gratuito </strong>
         </P>
       </section>
 
